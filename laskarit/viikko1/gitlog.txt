@@ -1,4 +1,5 @@
 
+epäsynkrotesti
 
 tomipaakkunainen@Tomis-MacBook-Air ot_viikko1 % git log --stat | cat  
 commit 755fa357ba9301b5c2baa3695c5e2c646341294c
