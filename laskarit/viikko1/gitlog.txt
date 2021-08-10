@@ -1,0 +1,137 @@
+
+
+tomipaakkunainen@Tomis-MacBook-Air ot_viikko1 % git log --stat | cat  
+commit 755fa357ba9301b5c2baa3695c5e2c646341294c
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:59:56 2021 -0700
+
+    lisätty ja poistettu jen jne jne
+
+ file2           | 0
+ file1 => file22 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit e3de6cc425ed92f634e859785a06de3b6249fddf
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:56:53 2021 -0700
+
+    lisätty kolme tiedostoa
+
+ file1 | 0
+ file2 | 0
+ file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b09495270d1c3c5223c39bda88bab1d05f2964ac
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:48:41 2021 -0700
+
+    olipas savotta
+
+ eka.txt    | 10 +---------
+ kolmas.txt |  4 +++-
+ 2 files changed, 4 insertions(+), 10 deletions(-)
+
+commit 8f4e01e27996d70afaa19d25192ca543e652fe4b
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:45:36 2021 -0700
+
+    sd
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 275ebed6b31e46d3bfc512d8eed88ba0a4eaeeab
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:44:41 2021 -0700
+
+    poistettu toinen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 34b092882aa38320125f3a074b72c4cf9e1c11e1
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:40:04 2021 -0700
+
+    lisätty ja poistettu..
+
+ tiedosto.txt | 18 +++++++++++++-----
+ 1 file changed, 13 insertions(+), 5 deletions(-)
+
+commit dd17269262153edf4bf16463fce20dbbbe7a5a82
+Author: tjpaakkunainen <tomipaakkunainen@outlook.com>
+Date:   Sun Aug 8 21:39:03 2021 -0700
+
+    testataan
+
+ tiedosto.txt | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit 6de600dff3203bc5f7b4d71ea98ff6cc97cd4746
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 21:22:48 2021 -0700
+
+    lisätty hakemisto ja tiedosto
+
+ stuff/joku.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit eb74854219635168e5f8dfb42373c18284535467
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 21:21:48 2021 -0700
+
+    lisätty kaikenlaista
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 59fc8c5576b3322eec28a6abd6757eacda931823
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 21:12:49 2021 -0700
+
+    kolmas tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4087bab3610c2aeba87795e4d6125a30ea8e6e32
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 21:10:39 2021 -0700
+
+    kolmas rivi lisätty
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit afded14016765c1016ad4e284786f2e1d6e44b83
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 20:54:40 2021 -0700
+
+    lisätään toinen rivi tekstiä
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit e5e9097de0c987d14a55cd6ee149cdcc2268a5a5
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 20:51:18 2021 -0700
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 7d4aec64449a327f3bafc2160ea0215a79db52cf
+Author: tjpaakkunainen <tomi.paakkunainen@outlook.com>
+Date:   Sun Aug 8 20:40:52 2021 -0700
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+tomipaakkunainen@Tomis-MacBook-Air ot_viikko1 % 
+
+-
