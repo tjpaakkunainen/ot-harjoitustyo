@@ -7,5 +7,3 @@ Tässä on tekstiä.
 ## Harjoitustehtäviä
 
 [gitlog.txt](https://github.com/tjpaakkunainen/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
-
-epäsynkrooni
